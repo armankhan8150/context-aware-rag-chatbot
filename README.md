@@ -162,7 +162,7 @@ streamlit run app.py
 - Multi-document support
 - Streaming responses
 - Agentic RAG (Planner–Retriever–Verifier)
--- Conversation export functionality
+- Conversation export functionality
 
 ---
 
