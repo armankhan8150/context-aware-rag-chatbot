@@ -150,18 +150,18 @@ streamlit run app.py
 
 ## 10. Limitations
 
--- Knowledge limited to the ingested dataset
--- Requires an active OpenAI API key
--- Single-source document ingestion in the current version
+- Knowledge limited to the ingested dataset
+- Requires an active OpenAI API key
+- Single-source document ingestion in the current version
 
 ---
 
 ## 11. Future Enhancements
 
--- Upload and query custom documents (PDF, DOCX, TXT)
--- Multi-document support
--- Streaming responses
--- Agentic RAG (Planner–Retriever–Verifier)
+- Upload and query custom documents (PDF, DOCX, TXT)
+- Multi-document support
+- Streaming responses
+- Agentic RAG (Planner–Retriever–Verifier)
 -- Conversation export functionality
 
 ---
